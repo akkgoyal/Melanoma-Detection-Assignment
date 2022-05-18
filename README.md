@@ -14,15 +14,15 @@ In this assignment, we will build a multiclass classification model using a cust
 2. All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 3. The data set contains the following diseases:
 
-- Actinic keratosis
-- Basal cell carcinoma
-- Dermatofibroma
-- Melanoma
-- Nevus
-- Pigmented benign keratosis
-- Seborrheic keratosis
-- Squamous cell carcinoma
-- Vascular lesion
+  - Actinic keratosis
+  - Basal cell carcinoma
+  - Dermatofibroma
+  - Melanoma
+  - Nevus
+  - Pigmented benign keratosis
+  - Seborrheic keratosis
+  - Squamous cell carcinoma
+  - Vascular lesion
 
 
 ## Project Information
