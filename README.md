@@ -1,4 +1,4 @@
-# Linear-Regression-Bike-Sharing
+# Melanoma-Detection using CNN
 In this assignment, we will build a multiclass classification model using a custom convolutional neural network in TensorFlow to accurately detect melanoma.
 
 ## Table of Contents
